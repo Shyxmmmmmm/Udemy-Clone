@@ -39,17 +39,6 @@ Purpose
 
 This project was created to practice frontend development skills by recreating a real-world website layout. It helped improve my understanding of layout design, Flexbox, spacing, alignment, and UI structuring.
 
-Folder Structure
-Udemy-Clone/
-│
-├── index.html
-├── style.css
-├── image/
-│   ├── cover.jpg
-│   ├── c1.jpg
-│   ├── c2.jpg
-│   ├── c3.jpg
-│   └── c4.jpg
 
 Future Improvements
 
